@@ -1,2 +1,2 @@
 # SMS_encrypt-decrypt
-This is a simple application ,which is useful for massage encryption and decryption
+This is a simple python application which help to Encrypt and Decrypt the Massages with the help of Key.
