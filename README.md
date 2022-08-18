@@ -7,4 +7,4 @@ Git clone https://github.com/ashirvadpandey/SMS_encrypt-decrypt.git
 Install Modules:
 pip install tkinter 
 
-pip install import base64
+  pip install base64
