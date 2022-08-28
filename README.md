@@ -3,8 +3,7 @@ This is a simple python application which help to Encrypt and Decrypt the Massag
 
 INSTALLATION :
 
-
-Git clone https://github.com/ashirvadpandey/SMS_encrypt-decrypt.git
+      Git clone https://github.com/ashirvadpandey/SMS_encrypt-decrypt.git
 
 Install Modules:
       
